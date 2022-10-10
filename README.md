@@ -7,3 +7,4 @@
 - 🧑🏻‍💻 &nbsp;Programmer
 - 🌏 Cloud-native and micro-services infrastructure open source enthusiasts.
 - ⚡ Go, Java  ...👋:dog::dog::dog::dog::dog:
+- :spades: 微信公众号（柠檬汁Code）
