@@ -7,4 +7,3 @@
 - 🧑🏻‍💻 &nbsp;Programmer
 - 🌏 Cloud-native and micro-services infrastructure open source enthusiasts.
 - ⚡ Go, Java  ...👋:dog::dog::dog::dog::dog:
-- :bulb: Nacos PMC 、Apache Dubbo-Go Committer 、Sentinel-Go Committer 、CNCF ChaosBlade Committer
