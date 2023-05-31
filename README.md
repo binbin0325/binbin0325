@@ -1,6 +1,5 @@
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=binbin0325&show_icons=true&include_all_commits=true&count_private=true" alt="binbin0325's Github stats" style="zoom:100%;" />
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=binbin0325&show_icons=true&theme=dracula" alt="binbin0325's github stats" />
 
 ### Hi there, I'm binbin0325(binbin.zhang) 🎉
 
