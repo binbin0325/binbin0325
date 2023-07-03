@@ -1,5 +1,4 @@
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=binbin0325&show_icons=true&theme=dracula" alt="binbin0325's github stats" />
 
 ### Hi there, I'm binbin0325(binbin.zhang) 🎉
 
