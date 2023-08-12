@@ -4,6 +4,7 @@
 - 🇨🇳 Chinese
 - 🧑🏻‍💻 &nbsp;Programmer
 - 🌏 Cloud-native and micro-services infrastructure and chaos engineering open source enthusiasts.
-- ⚡ Go, Java  ...👋:dog::dog::dog::dog::dog:
+- ⚡ Go, Java  ...
 - :high_brightness: Nacos PMC、Apache Dubbo-Go Committer、Sentinel-Go Committer、CNCF ChaosBlade Committer
-- WeChat: 柠檬汁Code
+- :computer: https://binbin0325.github.io
+- 👋👋:👋:dog::dog::dog::dog::dog:👋👋👋
