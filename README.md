@@ -4,7 +4,7 @@
 - 🧑🏻‍💻 &nbsp;Programmer
 - 🌏 Cloud-native and micro-services infrastructure and chaos engineering open source enthusiasts.
 - ⚡ Go, Java  ...
-- :high_brightness: Nacos PMC、Apache Dubbo-Go Committer、Sentinel-Go Committer、CNCF ChaosBlade Committer
+- :high_brightness: Nacos PMC、Apache Dubbo-Go Committer、Sentinel-Go Committer、CNCF ChaosBlade Reviewer
 - :computer: https://binbin0325.github.io
 - 👋👋:👋:dog::dog::dog::dog::dog:👋👋👋
 <a href="https://github.com/binbin0325">
